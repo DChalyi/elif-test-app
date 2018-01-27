@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.16.2",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "request": "^2.83.0",
+    "request-debug": "^0.2.0",
+    "restful.js": "^0.9.6"
+  }
+}
